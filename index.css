@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sidenav{
+    width: 5%;
+    height: 100vh;
+    position: fixed;
+    background-color: orange; 
+    
+}
+
+.icons img{
+    width: 50px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.icons ul{
+    padding-top: 50px;
+    padding-left: 10px;
+
+    list-style: none;
+}
+
+.icons li{
+    padding: 30px;
+}
+.pro {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.saw img{
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+
+
+
+
+.show1 img{
+    display: flex;
+ border-radius: 50%;
+    width: 50px;
+}
+.show1{
+    display: flex;
+    gap: 20px;
+    padding: 10px 20px;
+}
+.show1 i{
+    padding-top: 10px;
+}
+.show h1{
+    padding-left: 30px;
+}
+.show{
+    
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main{
+    position: fixed;
+    margin-left: 150px;
+    padding-top: 20px;
+    
+
+}
+
+.main ul{
+    list-style: none;
+
+}
+
+.main li{
+    padding: 30px;
+    gap: 10px;
+}
+
+.tir{
+    gap: 20px;
+    display: flex;
+}
+
+.form{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.form input{
+    width: 300px;
+    height: 50px;
+}
+.btn{
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
+.haa{
+    border: 2px orange solid;
+    width: 100px;
+
+}
+.hey{
+    background-color: orange;
+    width: 100px;
+    border: none;
+    height: 20px;
+}
+
